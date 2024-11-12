@@ -3,17 +3,26 @@
 
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
-    •    💻 Specialty: 
 
-    •    🌍 Languages: Spanish (native), English (intermediate )
+<div style="display: flex; align-items: center;">
+
+  <div style="flex: 1;">
+  •    💻 Specialty: 
+
+  •    🌍 Languages: Spanish (native), English (intermediate )
  
-    •    🎓 Education: 
+  •    🎓 Education: 
 
-    •    🌈 Outside tech, I love 🎮 playing videogames, 🎵 listening to music, and I also love to do crafts 🎨 in my free time
+  •    🌈 Outside tech, I love 🎮 playing videogames, 🎵 listening to music, and I also love to do crafts 🎨 in my free time
 
-    ✔ Ask me about anything, I am happy to help
+  ✔ Ask me about anything, I am happy to help
 
-    📫 Reach out to me at: mafergonzalezw@gmail.com
+  📫 Reach out to me at: mafergonzalezw@gmail.com
+  </div>
+
+  <img aling="right" width="250px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW9qY2ZlbHdyc3htejVvdzB1cXp6cnU3NjFiY211b2puYnB5M2MxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WMRb9p6N4mtIRtE2zr/giphy.webp" />
+
+</div>
 
  ## &nbsp;Languages and Tools: 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -58,10 +67,5 @@
 
 </div>
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/maria-fernanda-gonzalez-carrasquel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/maria-fernanda-gonzalez-carrasquel" height="30" width="40" /></a>
-</p>
-
+<img align="center" src="https://i.giphy.com/MDJ9IbxxvDUQM.webp"/>
 
