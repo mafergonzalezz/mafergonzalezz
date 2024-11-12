@@ -1,11 +1,5 @@
 <h1 align="center">Hi!, I´m Maria Fernanda Gonzalez</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Nest.js**
-
-- 👨‍💻 All of my projects are available at [working on it](working on it)
-
-- 📫 How to reach me **mafergonzalezw@gmail.com**
 
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
