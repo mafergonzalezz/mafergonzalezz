@@ -67,5 +67,5 @@
 
 </div>
 
-<img align="center" src="https://i.giphy.com/MDJ9IbxxvDUQM.webp"/>
+<!-- <img align="center" src="https://i.giphy.com/MDJ9IbxxvDUQM.webp"/> -->
 
