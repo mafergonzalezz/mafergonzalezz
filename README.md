@@ -1,21 +1,30 @@
-<h1 align="center">Hi!, I´m Maria Fernanda Gonzalez</h1>
-
+<h1 align="center">Hi! 🌈🌈 I´m Maria Fernanda Gonzalez</h1>
 
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 <div style="display: flex; align-items: center;">
 
+
   <div style="flex: 1;">
-  •    💻 Specialty: 
 
-  •    🌍 Languages: Spanish (native), English (intermediate )
+  I’m a creative 🎨 Full-Stack Developer on a mission to transform complex problems into simple, beautiful solutions!✔️
+
+  
+  With a unique blend of coding and design skills, I build high-performing web apps and craft user interfaces that are both intuitive and delightful.
+
+  I’m a team player with a commitment to quality, I’m always on the lookout for ways to elevate the experience—whether through front-end magic or back-end wizardry!
+
+
+  •    💻 Specialty: Front-End ⌨️
+
+  •    🌍 Languages: Spanish (native), English (intermediate)
  
-  •    🎓 Education: 
+  •    🎓 Education: Full-Stack Developer & Architect 
 
-  •    🌈 Outside tech, I love 🎮 playing videogames, 🎵 listening to music, and I also love to do crafts 🎨 in my free time
+  •    🌈 Outside cooding, I love 🎮 play videogames, 🎵 listening to music, and I also love to do crafts in my free time 🎨
 
-  ✔ Ask me about anything, I am happy to help
+  ✅ Ask me about anything, I am happy to help
 
   📫 Reach out to me at: mafergonzalezw@gmail.com
   </div>
@@ -48,10 +57,10 @@
 
   ## 📊 &nbsp;My activities
   <a href="https://github.com/mafergonzalezz">
-    <img width=450 height=170 align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api?username=mafergonzalezz&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+    <img width=450 height=170 align="center" alt="mafer" src="https://github-readme-stats.vercel.app/api?username=mafergonzalezz&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
   <a href="https://github.com/mafergonzalezz">
-    <img align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafergonzalezz&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+    <img align="center" alt="mafer" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafergonzalezz&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 </div>
 
@@ -59,11 +68,10 @@
 
   ## 📫 &nbsp;My Contacts
 
-  [![LinkedIn Badge](https://img.shields.io/badge/-Maria_F_Gonzalez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-fernanda-gonzalez-carrasquel)](https://linkedin.com/in/www.linkedin.com/in/maria-fernanda-gonzalez-carrasquel)&nbsp;
-  [![Gmail Badge](https://img.shields.io/badge/-pablo.pds100@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:pablo.pds100@gmail.com)&nbsp;
-  [![Instagram Badge](https://img.shields.io/badge/-Pepyn0__-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/pepyn0_/)&nbsp;
-  [![Twitter Badge](https://img.shields.io/badge/-Pepyn0-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Pepyn0)&nbsp;
-  [![AniList Badge](https://img.shields.io/badge/-Pepyn0-C063FF?style=flat-square&logo=Anilist&logoColor=white)](https://anilist.co/user/Pepyn0/)
+  [![LinkedIn Badge](https://img.shields.io/badge/-Maria_F_Gonzalez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/maria-fernanda-gonzalez-carrasquel/)](www.linkedin.com/in/maria-fernanda-gonzalez-carrasquel/)&nbsp;
+  [![Gmail Badge](https://img.shields.io/badge/-mafergonzalezw@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:mafergonzalezw@)&nbsp;
+ 
+  
 
 </div>
 
